@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ujirani</string>
+    <string name="app_slogan">Connect with your neighbours</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="sign_up_now">Sign up now</string>
+    <string name="terms">By continuing you agree to our terms and conditions</string>
+    <string name="terms_link">Ujirani Terms of Service and Privacy Policy</string>
+    <string name="sign_up">Sign up with Ujirani</string>
+    <string name="why_phone">Why Ujirani needs a phone number</string>
+    <string name="need_number">We need your phone number to contact you during emergencies</string>
+    <string name="font">fonts/organo.ttf</string>
+    <string name="invite">Invite three of your neighbours and get social</string>
+    <string name="where">Where do you live?</string>
+    <string name="facebook_app_id">1553228224941926</string>
+
+</resources>
